@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="/images/full_stack_trans.png" alt="Full stack" width="150"/>
+  <img src="/images/full_stack_trans.png" alt="Full stack" width="100"/>
   <br>
 </h1>
 
