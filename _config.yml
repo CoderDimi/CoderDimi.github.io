@@ -36,13 +36,6 @@ footer-links:
   playconsole:
 
 
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus: 
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-43339302-11
-
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
 url: http://www.dimitrivernemmen.com
@@ -68,10 +61,10 @@ kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
   # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+  # syntax_highlighter: rouge
+  # syntax_highlighter_opts:
+  #   # Use existing pygments syntax highlighting css
+  #   css_class: 'highlight'
 
 # Set the Sass partials directory, as we're using @imports
 sass:
