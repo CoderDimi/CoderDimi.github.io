@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linux development on Windows using WSL 2
-categories: [WSL2,Windows,Development] 
+categories: [WSL2,Windows,Linux,Development] 
 ---
 
 What is WSL? The **Windows Subsystem for Linux**, or, **WSL**, is a compatibility layer for running 
