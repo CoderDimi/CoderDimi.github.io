@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img href="http://dimitrivernemmen.com" src="/images/full_stack_trans.png" alt="Full stack" width="200"/>
+  <img src="/images/full_stack_trans.png" alt="Full stack" width="150"/>
   <br>
 </h1>
 
